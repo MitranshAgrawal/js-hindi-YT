@@ -1,0 +1,16 @@
+{
+  "name": "js-hindi-yt",
+  "version": "1.0.0",
+  "description": "A code repo for java script series by chai and code YT Channel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  }
+}
